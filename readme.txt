@@ -27,7 +27,7 @@ You can also follow me on Twitter! **[@alexasomba](http://twitter.com/alexasomba
 
 
 = Contribute = 
-To contribute to this plugin feel free to fork it on Github [Voguepay Woocommerce Payment Gateway on Github](https://github.com/tubiz/voguepay-woocommerce-payment-gateway)
+To contribute to this plugin feel free to fork it on Github [Woocommerce Nigeria States on Github](https://github.com/tubiz/woocommerce-nigeria-states)
 
 
 == Installation ==
@@ -35,8 +35,8 @@ To contribute to this plugin feel free to fork it on Github [Voguepay Woocommerc
 = Automatic Installation =
 * 	Login to your WordPress Admin area
 * 	Go to "Plugins > Add New" from the left hand menu
-* 	In the search box type "Voguepay Woocommerce Payment Gateway"
-*	From the search result you will see "Voguepay Woocommerce Payment Gateway" click on "Install Now" to install the plugin
+* 	In the search box type "Woocommerce Nigeria State"
+*	From the search result you will see "Woocommerce Nigeria States" click on "Install Now" to install the plugin
 *	A popup window will ask you to confirm your wish to install the Plugin.
 
 = Note: = 
