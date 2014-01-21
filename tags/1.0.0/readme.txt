@@ -21,7 +21,7 @@ Woocommerce as at the time of development of this plugin lacks the State/Countie
 
 = Suggestions / Feature Request =
 
-If you have suggestions or a new features request, feel free to get in touch with me via the contact form on my website [here](http://bosun.me/get-in-touch/)
+If you have suggestions or a new features request, feel free to get in touch with me via the contact form on my website [here](http://alexasomba/contact/)
 
 You can also follow me on Twitter! **[@alexasomba](http://twitter.com/alexasomba)** or Circle me on GooglePlus! **[+AlexanderAsomba](http://google.com/+AlexanderAsomba)**
 
