@@ -23,11 +23,11 @@ Woocommerce as at the time of development of this plugin lacks the State/Countie
 
 If you have suggestions or a new features request, feel free to get in touch with me via the contact form on my website [here](http://bosun.me/get-in-touch/)
 
-You can also follow me on Twitter! **[@alexasomba](http://twitter.com/alexasomba)**
+You can also follow me on Twitter! **[@alexasomba](http://twitter.com/alexasomba)** or Circle me on GooglePlus! **[+AlexanderAsomba](http://google.com/+AlexanderAsomba)**
 
 
 = Contribute = 
-To contribute to this plugin feel free to fork it on Github [Woocommerce Nigeria States on Github](https://github.com/tubiz/woocommerce-nigeria-states)
+To contribute to this plugin feel free to fork it on Github [Woocommerce Nigeria States on Github](https://github.com/alexasomba/woocommerce-nigeria-states)
 
 
 == Installation ==
