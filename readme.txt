@@ -66,11 +66,11 @@ If this is the first time you've installed a WordPress Plugin, you may need to e
 
 == Changelog ==
 
-= 1.0.0 =
-*   First release
-
 = 1.0.1 =
 *	Tested for compatibility with WordPress 4.0
+
+= 1.0.0 =
+*   First release
 
 == Upgrade Notice ==
 
