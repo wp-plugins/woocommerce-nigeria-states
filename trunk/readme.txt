@@ -1,22 +1,24 @@
 ﻿=== Woocommerce Nigeria States ===
 Contributors: alexasomba
-Donate link: http://plugins.alexasomba.com/donate
-Tags: woocommerce, nigeria, state, county, address, plugin
+Donate link: http://donate.alexasomba.com/woocomerce-nigeria-states
+Tags: woocommerce, nigeria, ecommerce, state, county, address, plugin
 Requires at least: 3.5
-Tested up to: 3.8
+Tested up to: 4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A short plugin that adds Nigeria postal states to WooCommerce's list of states.
+Adds Nigeria (postal) states to WooCommerce's list of states.
 
 
 
 == Description ==
 
-This is a Nigerian State/County plugin for Woocommerce. It adds Nigeria postal states to WooCommerce's list of states.
+This is a Nigerian State/County plugin for Woocommerce. It adds all Nigeria (postal) states to WooCommerce's list of states.
 
 Woocommerce as at the time of development of this plugin lacks the State/Counties of some Countries including Nigeria and that causes the Error "State/County" required during registration of Address for users. This  plugin takes care of adding the list of states in a drop-down menu format and making it accessible for woocomerce users with Nigerian addresses.
+
+Give your users a better experience by showing them a dropdown list they could pick their state and also if your 
 
 
 = Suggestions / Feature Request =
@@ -37,7 +39,7 @@ To contribute to this plugin feel free to fork it on Github [Woocommerce Nigeria
 * 	Go to "Plugins > Add New" from the left hand menu
 * 	In the search box type "Woocommerce Nigeria State"
 *	From the search result you will see "Woocommerce Nigeria States" click on "Install Now" to install the plugin
-*	A popup window will ask you to confirm your wish to install the Plugin.
+*	A pop-up window will ask you to confirm your wish to install the Plugin.
 
 = Note: = 
 If this is the first time you've installed a WordPress Plugin, you may need to enter the FTP login credential information. If you've installed a Plugin before, it will still have the login information. This information is available through your web server host.
@@ -77,4 +79,3 @@ There is no need to upgrade just yet.
 == Screenshots ==
 
 1. A list of the States made available for Nigerian addresses on Woocommerce
-
