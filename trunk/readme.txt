@@ -1,6 +1,6 @@
 ﻿=== Woocommerce Nigeria States ===
-Contributors: alexasomba
-Donate link: http://donate.alexasomba.com/woocomerce-nigeria-states
+Contributors: alexasomba, shophqng
+Donate link: http://store.alexasomba.com/donate/
 Tags: woocommerce, nigeria, ecommerce, state, county, address, plugin
 Requires at least: 3.5
 Tested up to: 4.0
@@ -10,8 +10,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Adds Nigeria (postal) states to WooCommerce's list of states.
 
-
-
 == Description ==
 
 This is a Nigerian State/County plugin for Woocommerce. It adds all Nigeria (postal) states to WooCommerce's list of states.
@@ -20,17 +18,19 @@ Woocommerce as at the time of development of this plugin lacks the State/Countie
 
 Give your users a better experience by showing them a dropdown list they could pick their state and also if your 
 
-
 = Suggestions / Feature Request =
 
 If you have suggestions or a new features request, feel free to get in touch with me via the contact form on my website [here](http://alexasomba/contact/)
 
 You can also follow me on Twitter! **[@alexasomba](http://twitter.com/alexasomba)** or Circle me on GooglePlus! **[+AlexanderAsomba](http://google.com/+AlexanderAsomba)**
 
-
 = Contribute = 
 To contribute to this plugin feel free to fork it on Github [Woocommerce Nigeria States on Github](https://github.com/alexasomba/woocommerce-nigeria-states)
 
+**Misc**
+
+* [Plugin Site](http://shophq.com.ng/plugins/woocommerce-nigeria-states/)
+* [Basic Support](http://wordpress.org/support/plugin/woocommerce-nigeria-states)
 
 == Installation ==
 
@@ -53,28 +53,20 @@ If this is the first time you've installed a WordPress Plugin, you may need to e
 3.	Click on the "Upload" option, then click "Choose File" to select the zip file from your computer. Once selected, press "OK" and press the "Install Now" button.
 4.	Activate the plugin.
 
-
-
 == Frequently Asked Questions ==
 
 = What Do I Need To Use The Plugin =
 
 1.	You need to have Woocommerce plugin installed and activated on your WordPress site.
 
-
-
 == Changelog ==
 
 = 1.0.0 =
 *   First release
 
-
-
 == Upgrade Notice ==
 
 There is no need to upgrade just yet.
-
-
 
 == Screenshots ==
 
