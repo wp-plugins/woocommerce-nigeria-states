@@ -4,7 +4,7 @@ Donate link: http://store.alexasomba.com/donate/
 Tags: woocommerce, nigeria, ecommerce, state, county, address, plugin
 Requires at least: 3.5
 Tested up to: 4.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,11 +12,16 @@ Adds Nigeria (postal) states to WooCommerce's list of states.
 
 == Description ==
 
-This is a Nigerian State/County plugin for Woocommerce. It adds all Nigeria (postal) states to WooCommerce's list of states.
+This plugin adds the Nigerian States for use on your WooCommerce store. 
 
-Woocommerce as at the time of development of this plugin lacks the State/Counties of some Countries including Nigeria and that causes the Error "State/County" required during registration of Address for users. This  plugin takes care of adding the list of states in a drop-down menu format and making it accessible for woocomerce users with Nigerian addresses.
+It adds all Nigeria (postal) states to WooCommerce's list of states.
 
-Give your users a better experience by showing them a dropdown list they could pick their state and also if your 
+WooCommerce as at the time of development of this plugin lacks the State/Counties of some Countries Nigeria included and that causes the Error "State/County" required during registration of Nigerian based users or while they are asked to fill out their billing and shipping details. Plus store admins couldn't specify their states too at their admin side.
+
+**The plugin does two simple things for you**
+
+* Give your Nigerian based customers a better experience by showing them a drop-down list they could pick their state.
+* Give you (the admin) the benefit of specifying your the state your shop is based on your back-end. 
 
 = Suggestions / Feature Request =
 
@@ -25,7 +30,7 @@ If you have suggestions or a new features request, feel free to get in touch wit
 You can also follow me on Twitter! **[@alexasomba](http://twitter.com/alexasomba)** or Circle me on GooglePlus! **[+AlexanderAsomba](http://google.com/+AlexanderAsomba)**
 
 = Contribute = 
-To contribute to this plugin feel free to fork it on Github [Woocommerce Nigeria States on Github](https://github.com/alexasomba/woocommerce-nigeria-states)
+To contribute to this plugin feel free to fork it on Github [WooCommerce Nigeria States on Github](https://github.com/alexasomba/woocommerce-nigeria-states)
 
 **Misc**
 
@@ -63,6 +68,9 @@ If this is the first time you've installed a WordPress Plugin, you may need to e
 
 = 1.0.0 =
 *   First release
+
+= 1.0.1 =
+*	Tested for compatibility with WordPress 4.0
 
 == Upgrade Notice ==
 
