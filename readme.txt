@@ -1,5 +1,5 @@
 ﻿=== Woocommerce Nigeria States ===
-Contributors: alexasomba, shophqng
+Contributors: alexasomba, shophq
 Donate link: http://store.alexasomba.com/donate/
 Tags: woocommerce, nigeria, ecommerce, state, county, address, plugin
 Requires at least: 3.5
