@@ -1,10 +1,10 @@
 ﻿=== Woocommerce Nigeria States ===
 Contributors: alexasomba, shophq
-Donate link: http://store.alexasomba.com/donate/
+Donate link: http://digitalbusinessmanager.com.ng/donate/
 Tags: woocommerce, nigeria, ecommerce, state, county, address, plugin
 Requires at least: 3.5
-Tested up to: 4.0
-Stable tag: 1.0.1
+Tested up to: 4.2
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,11 +12,11 @@ Adds Nigeria (postal) states to WooCommerce's list of states.
 
 == Description ==
 
-This plugin adds the Nigerian States for use on your WooCommerce store. 
+This plugin adds the Nigerian States to your WooCommerce store. 
 
-It adds all Nigeria (postal) states to WooCommerce's list of states.
+It  makes it possible for your Nigerian based customers to choose a Nigerian state from a drop down list after choosing Nigeria as their country in either of their billing or shipping address.
 
-WooCommerce as at the time of development of this plugin lacks the State/Counties of some Countries Nigeria included and that causes the Error "State/County" required during registration of Nigerian based users or while they are asked to fill out their billing and shipping details. Plus store admins couldn't specify their states too at their admin side.
+This plugin helps you maintain order and reduce the chances that your customers encounter stress while filling their address details on your WooCommerce store. Plus as admin you can specify what Nigerian state you are selling from in your WooCommerce settings.
 
 **The plugin does two simple things for you**
 
@@ -25,9 +25,9 @@ WooCommerce as at the time of development of this plugin lacks the State/Countie
 
 = Suggestions / Feature Request =
 
-If you have suggestions or a new features request, feel free to get in touch with me via the contact form on my website [here](http://alexasomba/contact/)
+If you have suggestions or a new features request, feel free to get in touch with me via the contact form on my website [here](http://digitalbusinessmanager.com.ng/contact/)
 
-You can also follow me on Twitter! **[@alexasomba](http://twitter.com/alexasomba)** or Circle me on GooglePlus! **[+AlexanderAsomba](http://google.com/+AlexanderAsomba)**
+You can also follow me on Twitter! **[@alexasomba](https://twitter.com/alexasomba)** or Circle me on GooglePlus! **[+AlexanderAsomba](https://google.com/+AlexanderAsomba)**
 
 = Contribute = 
 To contribute to this plugin feel free to fork it on Github [WooCommerce Nigeria States on Github](https://github.com/alexasomba/woocommerce-nigeria-states)
@@ -65,6 +65,9 @@ If this is the first time you've installed a WordPress Plugin, you may need to e
 1.	You need to have Woocommerce plugin installed and activated on your WordPress site.
 
 == Changelog ==
+
+= 1.0.2 =
+*	Tested for compatibility with WordPress 4.2
 
 = 1.0.1 =
 *	Tested for compatibility with WordPress 4.0

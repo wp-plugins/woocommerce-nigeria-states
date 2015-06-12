@@ -2,10 +2,10 @@
 /*
 Plugin Name: WooCommerce Nigeria States
 Plugin URI: http://shophq.com.ng/plugins/woocommerce-nigeria-states/
-Description: Adds Nigeria postal counties to WooCommerce's list of states.
-Version: 1.0.1
+Description: Adds Nigeria postal counties (Nigerian states) to WooCommerce's list of states.
+Version: 1.0.2
 Author: Alexander Asomba
-Author URI: http://shophq.com.ng/
+Author URI: http://digitalbusinessmanager.com.ng
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 GitHub Plugin URI: https://github.com/alexasomba/woocommerce-nigeria-states
