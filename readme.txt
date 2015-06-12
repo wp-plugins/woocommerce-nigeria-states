@@ -1,4 +1,4 @@
-﻿=== Woocommerce Nigeria States ===
+﻿=== WooCommerce Nigeria States ===
 Contributors: alexasomba, shophq
 Donate link: http://digitalbusinessmanager.com.ng/donate/
 Tags: woocommerce, nigeria, ecommerce, state, county, address, plugin
