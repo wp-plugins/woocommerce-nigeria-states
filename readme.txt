@@ -35,6 +35,7 @@ To contribute to this plugin feel free to fork it on Github [WooCommerce Nigeria
 **Misc**
 
 * [Plugin Site](http://shophq.com.ng/plugins/woocommerce-nigeria-states/)
+* [Lagos Online Business Owners Meetup](http://www.meetup.com/Lagos-Online-Business-Owners-Meetup/)
 * [Basic Support](http://wordpress.org/support/plugin/woocommerce-nigeria-states)
 
 == Installation ==
